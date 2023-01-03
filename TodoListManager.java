@@ -1,7 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 10/13/2022
-// Class: CSE 122
-// TA: Colton Harris
 // Program: TodoList Extension
 // This class is just like the todo list program from before but now for this todo list you can 
 // add due dates to the items you add.
